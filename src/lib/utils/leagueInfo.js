@@ -8,20 +8,20 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to Week 2 Sunday Funday Recap!!!!</p>
-  <p> Spencer - some people are sleeping on the cobras, mainly the majority of his roster. After Pat Mahomes and David Montgomery, Spencer’s third highest scoring player was the chargers defense with 11 points. Good news is that would have been Jim’s 2nd best player.
-Will H - just like Bryce Young, sit. Good news, you’re fully tanking. Bad news, I have your pick. That’s Tua bad. Brock Bowers does look like a stud and Kelce is a bum, so looking solid there.
-Zack - Cam never had a chance this week. Achane of an events starting on Thursday, ended with Cam’s team running on an empty Tank Sunday night. Like a Lamb to the slaughter, this one was over before it started - might be best for Cam to flush this one down the Laporta potty.
-Cam - Ceedeez nuts above. Big matchup with the commish next week to avoid 1-2.
-Chad - sources tell CTESPN the team may be looking at a rebuild. Tough scenes as the newly acquired Pacheco is set to be mixon some time. At least Derek Carr is sick.
-Eric - heart of a champion, might be one of the only people in America to survive Kamara this week. We weren’t rooting against you eric, just against Dallas who Kamara happened to be playing.
-Troy - Eric on upset alert as Troy’s team is slated for career highs across the board next week. The rookies came to play in week 2, and Troy was recently spotted in a red shirt and khakis saying “like a good Nabers, State Farm is there”.  
-Nick - the dawgs are 2-0. Possible insider trading rumors are circulating after the absolute fleecing of Chad, with Pacheco going down in week 2. If only your boy saquon could catch 😔.
-Pat - wins are a little harder to come by when you’re not playing Jim. Sources say he’s entered a mental health facility after failing to start QJ on his career day. When asked for a quote, he referenced his own team name, “I’m a done yo”. He also stated that “trading while intoxicated should be against the rules” and is seeking a petition for future commissioner enforcement of trades above .15 BAC.
-Rory -  if that effort doesn’t win you a game, I don’t know what will. Think you found out this week what a real championship team is made of. It sure as hell isn’t Dallas Godert, Amari Cooper and Joe Burrow. At least you have Jim next week… don’t lose.
-Jim - Too many points for comfort from Darnell Mooney. 1.01 is still firmly on lock, and you did fleece me for a player I didn’t need this week. Another 3rd in the pocket, and another loss firmly in sight for week 3 against Rory. Mike Gesicki and Mooney are on the block, and Luther burden is already considering another year of college to avoid the draft.
-Will C - heartbreak, despair, should be 2-0. Ethan would also probably be 0-2.  At least you have Pat next week… he might win if he starts QJ.
-Liam - secretly ordered a Drake London jersey while still in the stadium last night. Should be 0-2. Disgrace of a 1-1 team. Kelce and Ja’Marr are looking like buyers remorse. Did you see Nico this week? Oof
-Myself - all those old guys on the trade block still got it. Tush push merchant still can’t throw the ball, sad eagles. Won’t apologize for 2-0 during the rebuild season. Alexander mattison may get a start here soon, that’s how down bad we are.</p>
+<p> Spencer - some people are sleeping on the cobras, mainly the majority of his roster. After Pat Mahomes and David Montgomery, Spencer’s third highest scoring player was the chargers defense with 11 points. Good news is that would have been Jim’s 2nd best player.</p>
+<p>Will H - just like Bryce Young, sit. Good news, you’re fully tanking. Bad news, I have your pick. That’s Tua bad. Brock Bowers does look like a stud and Kelce is a bum, so looking solid there.</p>
+<p>Zack - Cam never had a chance this week. Achane of an events starting on Thursday, ended with Cam’s team running on an empty Tank Sunday night. Like a Lamb to the slaughter, this one was over before it started - might be best for Cam to flush this one down the Laporta potty.</p>
+<p>Cam - Ceedeez nuts above. Big matchup with the commish next week to avoid 1-2.</p>
+<p>Chad - sources tell CTESPN the team may be looking at a rebuild. Tough scenes as the newly acquired Pacheco is set to be mixon some time. At least Derek Carr is sick.</p>
+<p>Eric - heart of a champion, might be one of the only people in America to survive Kamara this week. We weren’t rooting against you eric, just against Dallas who Kamara happened to be playing.</p>
+<p>Troy - Eric on upset alert as Troy’s team is slated for career highs across the board next week. The rookies came to play in week 2, and Troy was recently spotted in a red shirt and khakis saying “like a good Nabers, State Farm is there”.</p>
+<p>Nick - the dawgs are 2-0. Possible insider trading rumors are circulating after the absolute fleecing of Chad, with Pacheco going down in week 2. If only your boy saquon could catch 😔.</p>
+<p>Pat - wins are a little harder to come by when you’re not playing Jim. Sources say he’s entered a mental health facility after failing to start QJ on his career day. When asked for a quote, he referenced his own team name, “I’m a done yo”. He also stated that “trading while intoxicated should be against the rules” and is seeking a petition for future commissioner enforcement of trades above .15 BAC.</p>
+<p>Rory -  if that effort doesn’t win you a game, I don’t know what will. Think you found out this week what a real championship team is made of. It sure as hell isn’t Dallas Godert, Amari Cooper and Joe Burrow. At least you have Jim next week… don’t lose.</p>
+<p>Jim - Too many points for comfort from Darnell Mooney. 1.01 is still firmly on lock, and you did fleece me for a player I didn’t need this week. Another 3rd in the pocket, and another loss firmly in sight for week 3 against Rory. Mike Gesicki and Mooney are on the block, and Luther burden is already considering another year of college to avoid the draft.</p>
+<p>Will C - heartbreak, despair, should be 2-0. Ethan would also probably be 0-2.  At least you have Pat next week… he might win if he starts QJ.</p>
+<p>Liam - secretly ordered a Drake London jersey while still in the stadium last night. Should be 0-2. Disgrace of a 1-1 team. Kelce and Ja’Marr are looking like buyers remorse. Did you see Nico this week? Oof </p>
+<p>Commish - all those old guys on the trade block still got it. Tush push merchant still can’t throw the ball, sad eagles. Won’t apologize for 2-0 during the rebuild season. Alexander mattison may get a start here soon, that’s how down bad we are.</p>
 `;
 
 /*   STEP 3   */
